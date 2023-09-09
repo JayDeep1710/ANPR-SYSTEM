@@ -8,6 +8,9 @@ https://cis-demo-lime.vercel.app/
 
 https://github.com/JayDeep1710/ANPR-SYSTEM/assets/95349616/c09a74eb-fe43-4afe-a1d0-4b3c4e5014ec
 
+## Liscence plate Detection Model
+https://drive.google.com/file/d/1KYd0FHdNn2NZA2-ZZnR65KDr-WqzOzr-/view?usp=sharing
+
 
 
 
