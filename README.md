@@ -2,7 +2,15 @@
 ## Demo website(Under progress) :
 https://cis-demo-lime.vercel.app/ 
 ## Demo Video
-https://github.com/JayDeep1710/ANPR-SYSTEM/assets/95349616/65e24c59-8fab-482c-a340-aa4253bd62db
+
+
+
+
+https://github.com/JayDeep1710/ANPR-SYSTEM/assets/95349616/c09a74eb-fe43-4afe-a1d0-4b3c4e5014ec
+
+
+
+
 ## Model-Results
 ![c8dbc15e-f94e-418f-9a24-81a9a26302b7](https://github.com/JayDeep1710/ANPR-SYSTEM/assets/95349616/995c84e1-1db3-469b-a512-2a82e6981b07)
 ![a380c65c-2c8c-4fa6-8cbc-2dc5af819365](https://github.com/JayDeep1710/ANPR-SYSTEM/assets/95349616/34b36940-5804-461a-8c13-3cefa07ed5ac)
